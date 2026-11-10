@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nyjur Majok!
 
-<!--
-**nyjur1/nyjur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate from **New York University (2025)**, currently pursuing a **Master's in Computer Science and Artificial Intelligence at Boston University (expected 2028)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about programming, analytical problem-solving, and continuously expanding my technical skills. I enjoy learning something new every day and look forward to building meaningful projects that connect technology with my interests, particularly education.
+
+---
+
+## Languages
+
+Python · Java · C
+
+---
+
+## Connect with Me
+
+LinkedIn | Email | Resume
+
+---
+
+## Let's Connect!
+
+Always happy to meet new people, share ideas, and collaborate!
