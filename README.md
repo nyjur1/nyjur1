@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Nyjur Majok!</h1>
+<h1 align="center">Hi, I'm Nyjur!</h1>
 
 
 
