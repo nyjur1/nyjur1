@@ -20,7 +20,14 @@ LinkedIn | Email | Resume
 
 ---
 
+
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/nyjur-majok-88a831231) | [Resume](https://github.com/nyjur1/nyjur1/blob/main/Nyjur_Majok_Resume.pdf)
-  
+[LinkedIn](https://www.linkedin.com/in/nyjur-majok-88a831231) | [Resume](Resume%20%288%29.pdf)
+
+---
+
+## Let's Connect!
+
+Always happy to meet new people, share ideas, and collaborate!
+
