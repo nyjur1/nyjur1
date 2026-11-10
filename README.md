@@ -1,4 +1,6 @@
-# Hi, I'm Nyjur Majok!
+
+<h1 align="center">Hi, I'm Nyjur Majok!</h1>
+
 
 ## About Me
 
