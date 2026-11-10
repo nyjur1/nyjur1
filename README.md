@@ -22,4 +22,4 @@ LinkedIn | Email | Resume
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/nyjur-majok-88a831231)
+[LinkedIn](https://www.linkedin.com/in/nyjur-majok-88a831231) | [Resume](https://github.com/nyjur1/nyjur1/blob/main/Nyjur_Majok_Resume.pdf)
