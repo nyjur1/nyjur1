@@ -16,13 +16,6 @@ Python · Java · C
 
 ## Connect with Me
 
-LinkedIn | Email | Resume
-
----
-
-
-## Connect with Me
-
 [LinkedIn](https://www.linkedin.com/in/nyjur-majok-88a831231) | [Resume](Resume%20%288%29.pdf)
 
 ---
