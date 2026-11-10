@@ -20,6 +20,6 @@ LinkedIn | Email | Resume
 
 ---
 
-## Let's Connect!
+## Connect with Me
 
-Always happy to meet new people, share ideas, and collaborate!
+[LinkedIn](https://www.linkedin.com/in/nyjur-majok-88a831231)
